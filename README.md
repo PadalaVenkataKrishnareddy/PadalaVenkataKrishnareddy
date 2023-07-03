@@ -5,12 +5,16 @@ src="https://img.shields.io/github/followers/PadalaVenkataKrishnareddy?logo=gith
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PadalaVenkataKrishnareddy&label=Profile%20views&color=0e75b6&style=flat" alt="PadalaVenkataKrishnareddy" /> </p>
 
 
+
+
+[![Krishna Reddy's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=venkata_krishna_reddy)](https://auth.geeksforgeeks.org/user/venkata_krishna_reddy)
+
+
+
 [![](https://leetcard.jacoblin.cool/krishna_reddy_1239?theme=dark)](https://leetcode.com/krishna_reddy_1239/)
 
 
 
-
-[![Vijay's geeksForgeeks stats](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=venkata_krishna_reddy)](https://auth.geeksforgeeks.org/user/venkata_krishna_reddy)
 
 
 
