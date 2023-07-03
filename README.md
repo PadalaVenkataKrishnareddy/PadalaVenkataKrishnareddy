@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi👋 This is Krishna Reddy
 
 <a href="https://www.github.com/PadalaVenkataKrishnareddy" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/PadalaVenkataKrishnareddy?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
